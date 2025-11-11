@@ -33,6 +33,42 @@ graph TD
     click A3 "https://github.com/skn-ai22-251029/data_collection_workspace" "프로그래밍 기초 - Data Collection"
 
 ```
+###### [단위프로젝트1] _전국 자동차 등록 현황 및 기업 FAQ 조회시스템_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트1
+        A1[SKN22-1st-1Team Project]
+        A2[SKN22-1st-2Team Project]
+        A3[SKN22-1st-3Team Project]
+        A4[SKN22-1st-4Team Project]
+
+        %% B1["SKN22-1st-1Team<br><sub>세부내용</sub>"]
+        B1[SKN22-1st-1Team<br>]
+        B2[SKN22-1st-2Team<br>]
+        B3[SKN22-1st-3Team<br>]
+        B4[SKN22-1st-4Team<br>]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/5" "SKN22-1st-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/6" "SKN22-1st-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/7" "SKN22-1st-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/8" "SKN22-1st-4Team"
+
+    click B1 "https://github.com/skn-ai22-251029/SKN22-1st-1Team" "SKN22-1st-1Team"
+    click B2 "https://github.com/skn-ai22-251029/SKN22-1st-2Team" "SKN22-1st-2Team"
+    click B3 "https://github.com/skn-ai22-251029/SKN22-1st-3Team" "SKN22-1st-3Team"
+    click B4 "https://github.com/skn-ai22-251029/SKN22-1st-4Team" "SKN22-1st-4Team"
+
+```
 
 
 
