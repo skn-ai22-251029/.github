@@ -39,10 +39,10 @@ graph TD
 graph TD
     
     subgraph 단위프로젝트1
-        A1[SKN22-1st-1Team Project]
-        A2[SKN22-1st-2Team Project]
-        A3[SKN22-1st-3Team Project]
-        A4[SKN22-1st-4Team Project]
+        A1[#64;SKN22-1st-1Team Project]
+        A2[#64;SKN22-1st-2Team Project]
+        A3[#64;SKN22-1st-3Team Project]
+        A4[#64;SKN22-1st-4Team Project]
 
         %% B1["SKN22-1st-1Team<br><sub>세부내용</sub>"]
         B1[SKN22-1st-1Team<br>]
