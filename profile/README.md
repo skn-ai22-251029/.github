@@ -44,11 +44,11 @@ graph TD
         A3[#64;SKN22-1st-3Team Project]
         A4[#64;SKN22-1st-4Team Project]
 
-        %% B1["SKN22-1st-1Team<br><sub>세부내용</sub>"]
-        B1[SKN22-1st-1Team<br>]
-        B2[SKN22-1st-2Team<br>]
-        B3[SKN22-1st-3Team<br>]
-        B4[SKN22-1st-4Team<br>]
+        %% B1["SKN22-1st-1Team Repo<br><sub>세부내용</sub>"]
+        B1[SKN22-1st-1Team Repo<br><sub>교통사고 현황과 안전팁을 제공하는 통합정보플랫폼</sub>]
+        B2[SKN22-1st-2Team Repo<br><sub>전기차충전소 통합정보시스템</sub>]
+        B3[SKN22-1st-3Team Repo<br><sub>국내자동차 시장트렌드 분석</sub>]
+        B4[SKN22-1st-4Team Repo<br><sub>중고차리콜 조회서비스</sub>]
 
         A1 -.- B1
         A2 -.- B2
