@@ -16,7 +16,25 @@
 
 ## 강의 소스코드 저장소 
 
-### [01_프로그래밍 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/1) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [@02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/15) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+```mermaid
+graph TD
+    A[02_AI 기초 주간]
+    A1[Data Analysis]
+    A2[Machine Learning]
+    A3[Deep Learning Basic]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/skn-ai22-251029/projects/15" "AI 기초"
+    click A1 "https://github.com/skn-ai22-251029/data_analysis_workspace" "AI 기초 - Data Analysis"
+    click A2 "https://github.com/skn-ai22-251029/machine_learning_workspace" "AI 기초 - Machine Learning"
+    click A3 "https://github.com/skn-ai22-251029/deep_learning_basic_workspace" "AI 기초 - Deep Learning Basic"
+
+```
+
+### [@01_프로그래밍 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/1) 
 ```mermaid
 graph TD
     A[01_프로그래밍 기초 주간]
