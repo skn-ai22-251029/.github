@@ -16,7 +16,7 @@
 
 ## 강의 소스코드 저장소 
 
-### [@02_AI 기초 주간](https://github.com/orgs/skn-ai14-250409/projects/15) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [@02_AI 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/15) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
 ```mermaid
 graph TD
     A[02_AI 기초 주간]
@@ -31,6 +31,43 @@ graph TD
     click A1 "https://github.com/skn-ai22-251029/data_analysis_workspace" "AI 기초 - Data Analysis"
     click A2 "https://github.com/skn-ai22-251029/machine_learning_workspace" "AI 기초 - Machine Learning"
     click A3 "https://github.com/skn-ai22-251029/deep_learning_basic_workspace" "AI 기초 - Deep Learning Basic"
+
+```
+
+###### [단위프로젝트2] _가입 고객 이탈 예측_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트2
+        A1[#64;SKN22-2nd-1Team Project]
+        A2[#64;SKN22-2nd-2Team Project]
+        A3[#64;SKN22-2nd-3Team Project]
+        A4[#64;SKN22-2nd-4Team Project]
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN22-2nd-1Team<br>]
+        B2[SKN22-2nd-2Team<br>]
+        B3[SKN22-2nd-3Team<br>]
+        B4[SKN22-2nd-4Team<br>]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/16" "@SKN22-2nd-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/17" "@SKN22-2nd-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/18" "@SKN22-2nd-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/19" "@SKN22-2nd-4Team"
+
+    click B1 "https://github.com/skn-ai22-251029/SKN22-2nd-1Team" "SKN22-2nd-1Team"
+    click B2 "https://github.com/skn-ai22-251029/SKN22-2nd-2Team" "SKN22-2nd-2Team"
+    click B3 "https://github.com/skn-ai22-251029/SKN22-2nd-3Team" "SKN22-2nd-3Team"
+    click B4 "https://github.com/skn-ai22-251029/SKN22-2nd-4Team" "SKN22-2nd-4Team"
 
 ```
 
@@ -76,10 +113,10 @@ graph TD
             
 
     end
-    click A1 "https://github.com/orgs/skn-ai22-251029/projects/5" "SKN22-1st-1Team"
-    click A2 "https://github.com/orgs/skn-ai22-251029/projects/6" "SKN22-1st-2Team"
-    click A3 "https://github.com/orgs/skn-ai22-251029/projects/7" "SKN22-1st-3Team"
-    click A4 "https://github.com/orgs/skn-ai22-251029/projects/8" "SKN22-1st-4Team"
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/5" "@SKN22-1st-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/6" "@SKN22-1st-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/7" "@SKN22-1st-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/8" "@SKN22-1st-4Team"
 
     click B1 "https://github.com/skn-ai22-251029/SKN22-1st-1Team" "SKN22-1st-1Team"
     click B2 "https://github.com/skn-ai22-251029/SKN22-1st-2Team" "SKN22-1st-2Team"
