@@ -16,10 +16,67 @@
 
 ## 강의 소스코드 저장소 
 
+### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) 
+```mermaid
+graph TD
+    A[#64;03_AI 자연어처리 주간]
+    A1[Deep Learning NLP]
+    A2[LLM]
+    A3[Deep Learning Multimodal]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/skn-ai22-251029/projects/29" "AI 자연어처리"
+    click A1 "https://github.com/skn-ai22-251029/deep_learning_nlp_workspace" "AI 자연어처리 - Deep Learning NLP"
+    click A2 "https://github.com/skn-ai22-251029/llm_workspace" "AI 자연어처리 - LLM"
+    click A3 "https://github.com/skn-ai22-251029/deep_learning_multimodal_workspace" "AI 자연어처리 - Deep Learning Multimodal"
+
+```
+
+
+<!--
+###### [단위프로젝트3] _LLM 연동 내외부 문서 기반 질의 응답 시스템_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트3
+        A1[#64;SKN22-3rd-1Team Project]
+        A2[#64;SKN22-3rd-2Team Project]
+        A3[#64;SKN22-3rd-3Team Project]
+        A4[#64;SKN22-3rd-4Team Project]
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN22-3rd-1Team<br>]
+        B2[SKN22-3rd-2Team<br>]
+        B3[SKN22-3rd-3Team<br>]
+        B4[SKN22-3rd-4Team<br>]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+
+
+    end
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/52" "SKN22-3rd-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/51" "SKN22-3rd-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/50" "SKN22-3rd-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/49" "SKN22-3rd-4Team"
+
+    click B1 "https://github.com/skn-ai22-251029/SKN22-3rd-1Team" "SKN22-3rd-1Team"
+    click B2 "https://github.com/skn-ai22-251029/SKN22-3rd-2Team" "SKN22-3rd-2Team"
+    click B3 "https://github.com/skn-ai22-251029/SKN22-3rd-3Team" "SKN22-3rd-3Team"
+    click B4 "https://github.com/skn-ai22-251029/SKN22-3rd-4Team" "SKN22-3rd-4Team"
+
+```
+-->
+
 ### [@02_AI 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/15) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
 ```mermaid
 graph TD
-    A[02_AI 기초 주간]
+    A[#64;02_AI 기초 주간]
     A1[Data Analysis]
     A2[Machine Learning]
     A3[Deep Learning Basic]
@@ -74,7 +131,7 @@ graph TD
 ### [@01_프로그래밍 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/1) 
 ```mermaid
 graph TD
-    A[01_프로그래밍 기초 주간]
+    A[#64;01_프로그래밍 기초 주간]
     A1[Python]
     A2[MySQL]
     A3[Data Collection]
