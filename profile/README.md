@@ -16,7 +16,7 @@
 
 ## 강의 소스코드 저장소 
 
-### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) 
+### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
 ```mermaid
 graph TD
     A[#64;03_AI 자연어처리 주간]
@@ -73,7 +73,7 @@ graph TD
 ```
 -->
 
-### [@02_AI 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/15) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [@02_AI 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/15) 
 ```mermaid
 graph TD
     A[#64;02_AI 기초 주간]
@@ -103,10 +103,10 @@ graph TD
         A4[#64;SKN22-2nd-4Team Project]
 
         %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
-        B1[SKN22-2nd-1Team<br>]
-        B2[SKN22-2nd-2Team<br>]
-        B3[SKN22-2nd-3Team<br>]
-        B4[SKN22-2nd-4Team<br>]
+        B1[SKN22-2nd-1Team<br>온라인 쇼핑몰 방문자 <br>행동 데이터 기반 <br> 구매 전환 예측 <br>및 이탈 방지 전략 수립]
+        B2[SKN22-2nd-2Team<br>KKOBX 사용자 이탈 예측]
+        B3[SKN22-2nd-3Team<br>스포티파이 사용자 이탈 예측 <br> 및 비즈니스 인사이트 <br> 제공 대시보드]
+        B4[SKN22-2nd-4Team<br>통신사 가입 고객 이탈 예측]
 
         A1 -.- B1
         A2 -.- B2
