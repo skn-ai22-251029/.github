@@ -60,9 +60,9 @@ graph TD
 
     end
     click A1 "https://github.com/orgs/skn-ai22-251029/projects/30" "SKN22-3rd-1Team"
-    click A2 "https://github.com/orgs/skn-ai22-251029/projects/31" "SKN22-3rd-2Team"
-    click A3 "https://github.com/orgs/skn-ai22-251029/projects/32" "SKN22-3rd-3Team"
-    click A4 "https://github.com/orgs/skn-ai22-251029/projects/33" "SKN22-3rd-4Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/32" "SKN22-3rd-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/33" "SKN22-3rd-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/34" "SKN22-3rd-4Team"
 
     click B1 "https://github.com/skn-ai22-251029/SKN22-3rd-1Team" "SKN22-3rd-1Team"
     click B2 "https://github.com/skn-ai22-251029/SKN22-3rd-2Team" "SKN22-3rd-2Team"
