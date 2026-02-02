@@ -35,7 +35,6 @@ graph TD
 ```
 
 
-<!--
 ###### [단위프로젝트3] _LLM 연동 내외부 문서 기반 질의 응답 시스템_
 
 ```mermaid
@@ -48,10 +47,10 @@ graph TD
         A4[#64;SKN22-3rd-4Team Project]
 
         %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
-        B1[SKN22-3rd-1Team<br>]
-        B2[SKN22-3rd-2Team<br>]
-        B3[SKN22-3rd-3Team<br>]
-        B4[SKN22-3rd-4Team<br>]
+        B1[SKN22-3rd-1Team<br><sub>의약품 정보 Q&A RAG 시스템</sub>]
+        B2[SKN22-3rd-2Team<br><sub>세부내용</sub>]
+        B3[SKN22-3rd-3Team<br><sub>세부내용</sub>]
+        B4[SKN22-3rd-4Team<br><sub>미국 재무제표 <br> 분석 및 투자 <br>인사이트 시스템</sub>]
 
         A1 -.- B1
         A2 -.- B2
@@ -60,10 +59,10 @@ graph TD
 
 
     end
-    click A1 "https://github.com/orgs/skn-ai22-251029/projects/52" "SKN22-3rd-1Team"
-    click A2 "https://github.com/orgs/skn-ai22-251029/projects/51" "SKN22-3rd-2Team"
-    click A3 "https://github.com/orgs/skn-ai22-251029/projects/50" "SKN22-3rd-3Team"
-    click A4 "https://github.com/orgs/skn-ai22-251029/projects/49" "SKN22-3rd-4Team"
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/30" "SKN22-3rd-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/31" "SKN22-3rd-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/32" "SKN22-3rd-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/33" "SKN22-3rd-4Team"
 
     click B1 "https://github.com/skn-ai22-251029/SKN22-3rd-1Team" "SKN22-3rd-1Team"
     click B2 "https://github.com/skn-ai22-251029/SKN22-3rd-2Team" "SKN22-3rd-2Team"
@@ -71,7 +70,6 @@ graph TD
     click B4 "https://github.com/skn-ai22-251029/SKN22-3rd-4Team" "SKN22-3rd-4Team"
 
 ```
--->
 
 ### [@02_AI 기초 주간](https://github.com/orgs/skn-ai22-251029/projects/15) 
 ```mermaid
