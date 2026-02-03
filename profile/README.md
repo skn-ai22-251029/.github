@@ -47,10 +47,10 @@ graph TD
         A4[#64;SKN22-3rd-4Team Project]
 
         %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
-        B1[SKN22-3rd-1Team<br><sub>의약품 정보 Q&A RAG 시스템</sub>]
-        B2[SKN22-3rd-2Team<br><sub>세부내용</sub>]
-        B3[SKN22-3rd-3Team<br><sub>세부내용</sub>]
-        B4[SKN22-3rd-4Team<br><sub>미국 재무제표 <br> 분석 및 투자 <br>인사이트 시스템</sub>]
+        B1[SKN22-3rd-1Team<br><sub>FDA 의약품 정보</sub>]
+        B2[SKN22-3rd-2Team<br><sub>AI 특허 분석<br>& 선행 기술<br>조사 솔루션</sub>]
+        B3[SKN22-3rd-3Team<br><sub>ZIPSA:<br>집사들을 위한 <br>반려묘 입양 및<br>케어 지원 챗봇</sub>]
+        B4[SKN22-3rd-4Team<br><sub>미국 재무제표 분석<br>및 투자 인사이트</sub>]
 
         A1 -.- B1
         A2 -.- B2
