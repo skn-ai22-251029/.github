@@ -16,7 +16,66 @@
 
 ## 강의 소스코드 저장소 
 
-### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+
+### [@04_웹서비스 주간](https://github.com/orgs/skn-ai22-251029/projects/37) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+```mermaid
+graph TD
+    A[04_웹서비스 주간]
+    A1[Web Client]
+    A2[Web Server]
+    A3[DevOps]
+    A --> A1
+    A --> A2
+    A --> A3
+
+    click A "https://github.com/orgs/skn-ai22-251029/projects/37" "웹서비스"
+    click A1 "https://github.com/skn-ai22-251029/web_client_workspace" "Web Client - HTML/CSS/Javascript"
+    click A2 "https://github.com/skn-ai22-251029/web_server_workspace" "Web Server - Django/FastAPI"
+    click A3 "https://github.com/skn-ai22-251029/devops_workspace" "DevOps - Linux/Cloud"
+
+```
+
+<!--
+###### [단위프로젝트4] _LLM 을 연동한 내외부 문서 기반 질의 응답 웹페이지 개발_
+
+```mermaid
+graph TD
+    
+    subgraph 단위프로젝트3
+        A1[SKN22-4th-1Team Project]
+        A2[SKN22-4th-2Team Project]
+        A3[SKN22-4th-3Team Project]
+        A4[SKN22-4th-4Team Project]
+        A5[SKN22-4th-5Team Project]
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN22-4th-1Team<br>건강기능식품 정보 제공 <br>및 증상에 따른 RAG 기반 <br>추천 시스템]
+        B2[SKN22-4th-2Team<br>기업 정보 요약 및 <b>Q&A 챗봇]
+        B3[SKN22-4th-3Team<br>세탁기/건조기 매뉴얼 Q&A 챗봇]
+        B4[SKN22-4th-4Team<br>다이어트를 위한 식단관리 및 운동추천 챗봇]
+        B5[SKN22-4th-5Team<br>대학 논술 전형 대비를 위한 RAG 기반 논술 첨삭 도우미]
+
+        A1 -.- B1
+        A2 -.- B2
+        A3 -.- B3
+        A4 -.- B4
+        A5 -.- B5
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/57" "@SKN22-4th-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/58" "@SKN22-4th-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/59" "@SKN22-4th-3Team"
+
+    click B1 "https://github.com/skn-ai22-251029/SKN22-4th-1Team" "SKN22-4th-1Team"
+    click B2 "https://github.com/skn-ai22-251029/SKN22-4th-2Team" "SKN22-4th-2Team"
+    click B3 "https://github.com/skn-ai22-251029/SKN22-4th-3Team" "SKN22-4th-3Team"
+
+```
+-->
+
+### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) 
 ```mermaid
 graph TD
     A[#64;03_AI 자연어처리 주간]
