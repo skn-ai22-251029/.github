@@ -35,45 +35,41 @@ graph TD
 
 ```
 
-<!--
 ###### [단위프로젝트4] _LLM 을 연동한 내외부 문서 기반 질의 응답 웹페이지 개발_
 
 ```mermaid
 graph TD
     
     subgraph 단위프로젝트3
-        A1[SKN22-4th-1Team Project]
-        A2[SKN22-4th-2Team Project]
-        A3[SKN22-4th-3Team Project]
-        A4[SKN22-4th-4Team Project]
-        A5[SKN22-4th-5Team Project]
+        A1[#64;SKN22-4th-1Team Project]
+        A2[#64;SKN22-4th-2Team Project]
+        A3[#64;SKN22-4th-3Team Project]
+        A4[#64;SKN22-4th-4Team Project]
 
         %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
-        B1[SKN22-4th-1Team<br>건강기능식품 정보 제공 <br>및 증상에 따른 RAG 기반 <br>추천 시스템]
-        B2[SKN22-4th-2Team<br>기업 정보 요약 및 <b>Q&A 챗봇]
-        B3[SKN22-4th-3Team<br>세탁기/건조기 매뉴얼 Q&A 챗봇]
-        B4[SKN22-4th-4Team<br>다이어트를 위한 식단관리 및 운동추천 챗봇]
-        B5[SKN22-4th-5Team<br>대학 논술 전형 대비를 위한 RAG 기반 논술 첨삭 도우미]
+        B1[SKN22-4th-1Team<br><sub>FDA 의약품 정보</sub>]
+        B2[SKN22-4th-2Team<br><sub>AI 특허 분석<br>& 선행 기술<br>조사 솔루션</sub>]
+        B3[SKN22-4th-3Team<br><sub>ZIPSA:<br>집사들을 위한 <br>반려묘 입양 및<br>케어 지원 챗봇</sub>]
+        B4[SKN22-4th-4Team<br><sub>미국 재무제표 분석<br>및 투자 인사이트</sub>]
 
         A1 -.- B1
         A2 -.- B2
         A3 -.- B3
         A4 -.- B4
-        A5 -.- B5
 
-            
 
     end
-    click A1 "https://github.com/orgs/skn-ai22-251029/projects/57" "@SKN22-4th-1Team"
-    click A2 "https://github.com/orgs/skn-ai22-251029/projects/58" "@SKN22-4th-2Team"
-    click A3 "https://github.com/orgs/skn-ai22-251029/projects/59" "@SKN22-4th-3Team"
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/38" "SKN22-4th-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/39" "SKN22-4th-2Team"
+    click A3 "https://github.com/orgs/skn-ai22-251029/projects/40" "SKN22-4th-3Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/41" "SKN22-4th-4Team"
 
     click B1 "https://github.com/skn-ai22-251029/SKN22-4th-1Team" "SKN22-4th-1Team"
     click B2 "https://github.com/skn-ai22-251029/SKN22-4th-2Team" "SKN22-4th-2Team"
     click B3 "https://github.com/skn-ai22-251029/SKN22-4th-3Team" "SKN22-4th-3Team"
+    click B4 "https://github.com/skn-ai22-251029/SKN22-4th-4Team" "SKN22-4th-4Team"
 
 ```
--->
 
 ### [@03_AI 자연어처리 주간](https://github.com/orgs/skn-ai22-251029/projects/30) 
 ```mermaid
