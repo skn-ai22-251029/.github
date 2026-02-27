@@ -40,7 +40,7 @@ graph TD
 ```mermaid
 graph TD
     
-    subgraph 단위프로젝트3
+    subgraph 단위프로젝트4
         A1[#64;SKN22-4th-1Team Project]
         A2[#64;SKN22-4th-2Team Project]
         A3[#64;SKN22-4th-3Team Project]
