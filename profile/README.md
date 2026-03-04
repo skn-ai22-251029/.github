@@ -53,9 +53,9 @@ graph TD
             
 
     end
-    click A1 "https://github.com/orgs/skn-ai2/projects/42" "@SKN22-Final-1Team"
-    click A2 "https://github.com/orgs/skn-ai2/projects/43" "@SKN22-Final-2Team"
-    click A4 "https://github.com/orgs/skn-ai2/projects/44" "@SKN22-Final-4Team"
+    click A1 "https://github.com/orgs/skn-ai22-251029/projects/42" "@SKN22-Final-1Team"
+    click A2 "https://github.com/orgs/skn-ai22-251029/projects/43" "@SKN22-Final-2Team"
+    click A4 "https://github.com/orgs/skn-ai22-251029/projects/44" "@SKN22-Final-4Team"
 
     click C1 "https://github.com/skn-ai2/SKN22-Final-1Team-Web" "SKN22-Final-1Team"
     click C2 "https://github.com/skn-ai2/SKN22-Final-2Team-Web" "SKN22-Final-2Team"
