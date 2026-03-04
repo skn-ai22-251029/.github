@@ -14,10 +14,64 @@
 
 ![](https://cdn.imweb.me/upload/S20240314bd10436a7991a/41a9769cc44e6.png)
 
+
+
+
+## 프로젝트 소스코드 저장소 
+
+### [05_최종프로젝트](https://github.com/orgs/skn-ai2/projects/45) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+**[최종프로젝트 가이드 @SKN22-Final-Guide](https://github.com/orgs/skn-ai2/projects/45)**
+
+```mermaid
+graph TD
+    
+    subgraph 최종프로젝트
+        A1[#64;SKN22-Final-1Team Project]
+        A2[#64;SKN22-Final-2Team Project]
+        A4[#64;SKN22-Final-4Team Project]
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        B1[SKN22-Final-1Team<br>LLM 활용 내부 고객 업무 효율성 향상을 위한 문서검색 시스템]
+        B2[SKN22-Final-2Team<br>LLM 활용 대화형 상품 추천 시스템]
+        B4[SKN22-Final-4Team<br>LLM 활용 인공지능 인플루언서 만들기]
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        C1[SKN22-Final-1Team<br>WEB]
+        C2[SKN22-Final-2Team<br>WEB]
+        C4[SKN22-Final-4Team<br>WEB]
+
+
+        %% B1["SKN22-2nd-1Team<br><sub>세부내용</sub>"]
+        D1[SKN22-Final-1Team<br>AI]
+        D2[SKN22-Final-2Team<br>AI]
+        D4[SKN22-Final-4Team<br>AI]
+
+        A1 -.- B1 -.- C1 -.- D1
+        A2 -.- B2 -.- C2 -.- D2
+        A4 -.- B4 -.- C4 -.- D4
+
+            
+
+    end
+    click A1 "https://github.com/orgs/skn-ai2/projects/42" "@SKN22-Final-1Team"
+    click A2 "https://github.com/orgs/skn-ai2/projects/43" "@SKN22-Final-2Team"
+    click A4 "https://github.com/orgs/skn-ai2/projects/44" "@SKN22-Final-4Team"
+
+    click C1 "https://github.com/skn-ai2/SKN22-Final-1Team-Web" "SKN22-Final-1Team"
+    click C2 "https://github.com/skn-ai2/SKN22-Final-2Team-Web" "SKN22-Final-2Team"
+    click C4 "https://github.com/skn-ai2/SKN22-Final-4Team-Web" "SKN22-Final-4Team"
+
+    click D1 "https://github.com/skn-ai2/SKN22-Final-1Team-AI" "SKN22-Final-1Team"
+    click D2 "https://github.com/skn-ai2/SKN22-Final-2Team-AI" "SKN22-Final-2Team"
+    click D4 "https://github.com/skn-ai2/SKN22-Final-4Team-AI" "SKN22-Final-4Team"
+
+```
+
+
 ## 강의 소스코드 저장소 
 
 
-### [@04_웹서비스 주간](https://github.com/orgs/skn-ai22-251029/projects/37) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+### [@04_웹서비스 주간](https://github.com/orgs/skn-ai22-251029/projects/37)
 ```mermaid
 graph TD
     A[04_웹서비스 주간]
