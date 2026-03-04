@@ -19,8 +19,8 @@
 
 ## 프로젝트 소스코드 저장소 
 
-### [05_최종프로젝트](https://github.com/orgs/skn-ai2/projects/45) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
-**[최종프로젝트 가이드 @SKN22-Final-Guide](https://github.com/orgs/skn-ai2/projects/45)**
+### [05_최종프로젝트](https://github.com/orgs/skn-ai22-251029/projects/45) ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
+**[최종프로젝트 가이드 @SKN22-Final-Guide](https://github.com/orgs/skn-ai22-251029/projects/45)**
 
 ```mermaid
 graph TD
@@ -57,13 +57,13 @@ graph TD
     click A2 "https://github.com/orgs/skn-ai22-251029/projects/43" "@SKN22-Final-2Team"
     click A4 "https://github.com/orgs/skn-ai22-251029/projects/44" "@SKN22-Final-4Team"
 
-    click C1 "https://github.com/skn-ai2/SKN22-Final-1Team-Web" "SKN22-Final-1Team"
-    click C2 "https://github.com/skn-ai2/SKN22-Final-2Team-Web" "SKN22-Final-2Team"
-    click C4 "https://github.com/skn-ai2/SKN22-Final-4Team-Web" "SKN22-Final-4Team"
+    click C1 "https://github.com/skn-ai22-251029/SKN22-Final-1Team-Web" "SKN22-Final-1Team"
+    click C2 "https://github.com/skn-ai22-251029/SKN22-Final-2Team-Web" "SKN22-Final-2Team"
+    click C4 "https://github.com/skn-ai22-251029/SKN22-Final-4Team-Web" "SKN22-Final-4Team"
 
-    click D1 "https://github.com/skn-ai2/SKN22-Final-1Team-AI" "SKN22-Final-1Team"
-    click D2 "https://github.com/skn-ai2/SKN22-Final-2Team-AI" "SKN22-Final-2Team"
-    click D4 "https://github.com/skn-ai2/SKN22-Final-4Team-AI" "SKN22-Final-4Team"
+    click D1 "https://github.com/skn-ai22-251029/SKN22-Final-1Team-AI" "SKN22-Final-1Team"
+    click D2 "https://github.com/skn-ai22-251029/SKN22-Final-2Team-AI" "SKN22-Final-2Team"
+    click D4 "https://github.com/skn-ai22-251029/SKN22-Final-4Team-AI" "SKN22-Final-4Team"
 
 ```
 
