@@ -71,7 +71,7 @@ graph TD
 ## 강의 소스코드 저장소 
 
 ### Agentic Coding ![NOW](https://img.shields.io/badge/👈-NOW-yellow)
-[agentic_coding_workspace](https://github.com/skn-ai22-251029/agentic_coding_workspace)
+[agentic_coding 가이드문서 저장소](https://github.com/shqkel/agentic-coding)
 
 ### [@04_웹서비스 주간](https://github.com/orgs/skn-ai22-251029/projects/37)
 ```mermaid
